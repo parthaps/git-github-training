@@ -12,6 +12,6 @@ BitBucket Gui  [https://bitbucket.org/]
   - Permission
   - Web hock
 
-Gitlab
-  - 
+Gitlab [gitlab.com]
+ 
   
